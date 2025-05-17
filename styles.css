@@ -66,7 +66,7 @@ a:hover {
 /* Hamburger Menu */
 
 #hamburger-nav {
-    /* In desktop view, if would not appear */
+    /* In desktop view, it would not appear */
     display: none;
 }
 
@@ -180,7 +180,7 @@ section {
     text-align: center;
 }
 
-.section__texte p {
+.section__text p {
     font-weight: 600;
 }
 
